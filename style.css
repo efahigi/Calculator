@@ -52,6 +52,9 @@ body{
     text-align:center;
     font-size:34px;
     padding-top:4px;
-    background-color:blue;
+    background-color:green;
     color:white;
+}
+#clr{
+    background-color: brown;
 }
